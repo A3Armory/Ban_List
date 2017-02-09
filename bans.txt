@@ -1998,6 +1998,5 @@ a646420ee317aa88e9af2a083b1b9d44 -1 Trolling
 01ca6f58d682751c96af0c36c4714481 -1 Team Killing
 f74bbc13e8d8f418438a90476e4e61f0 -1 Spam
 66a27dcd429338eaa6f7d340b4ce698d -1 Spam
-7339483e08282228539c67231631e81a -1 Caught for Glitch Abuse. Contact A3Armory.com
 8e5d6ba71b257714f04dd2199b3095a8 -1 Trolling
 cdee815ac0a850e0fa6c9f5e5a0f7a1d -1 Spam
