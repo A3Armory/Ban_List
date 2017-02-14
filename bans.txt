@@ -2000,3 +2000,6 @@ f74bbc13e8d8f418438a90476e4e61f0 -1 Spam
 66a27dcd429338eaa6f7d340b4ce698d -1 Spam
 8e5d6ba71b257714f04dd2199b3095a8 -1 Trolling
 cdee815ac0a850e0fa6c9f5e5a0f7a1d -1 Spam
+6104c141a6a6f6fb781ab8d8fe13964b -1 Caught for GameHack. Contact A3Armory.com
+3e3f3c45f159a615402702b576f7e461 -1 Caught for GameHack. Contact A3Armory.com
+e1bf89c4f65617a33372855139c40d40 -1 Caught for GameHack. Contact A3Armory.com
