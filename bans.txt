@@ -2004,3 +2004,10 @@ cdee815ac0a850e0fa6c9f5e5a0f7a1d -1 Spam
 e1bf89c4f65617a33372855139c40d40 -1 Caught for GameHack. Contact A3Armory.com
 6c3fb3e058e04e32502e3bdd5b24c5da -1 Caught for GameHack. Contact A3Armory.com
 59e3a0ef50ac5b0f0867af0e77d6744b -1 Caught for GameHack. Contact A3Armory.com
+6c692f9ed246ffa4d44a959182422ddd -1 Trolling
+0b51c4ee7049ae727bbc502550d8ccce -1 Trolling
+c0098ddabda5f8e5d51474633e42f872 -1 Trolling
+597bc58a8a4fd84d460d9985d24c5635 -1 Trolling
+d57da2a2de11e191334bc7677eaad061 -1 Trolling
+77ca7f96a8241004953a90d1cecb04b0 -1 Trolling
+90817c527ff28a6b78c84cf755270904 -1 Trolling
