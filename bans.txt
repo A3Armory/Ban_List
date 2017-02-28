@@ -2011,3 +2011,6 @@ c0098ddabda5f8e5d51474633e42f872 -1 Trolling
 d57da2a2de11e191334bc7677eaad061 -1 Trolling
 77ca7f96a8241004953a90d1cecb04b0 -1 Trolling
 90817c527ff28a6b78c84cf755270904 -1 Trolling
+55bc650590a511f0c7ef6b057cb0baa5 -1 Caught for GameHack. Contact A3Armory.com
+dc7b2e2e93c8ed56182a8e30604f69fb -1 Trolling
+9eac798d992cc56e7a708deebc119c45 -1 Caught for GameHack. Contact A3Armory.com
