@@ -2093,3 +2093,9 @@ c5444794990114bd1d053200d55476c0 -1 Caught for GameHack. Contact A3Armory.com
 48f9a2bc74b7feac35bd8423de2aa4ac -1 Caught for GameHack. Contact A3Armory.com
 addb5829b1fc6592737ff2d891450f4d -1 Caught for GameHack. Contact A3Armory.com
 d9d56ac235e75c03143fbdffd5f46ea7 -1 Caught for GameHack. Contact A3Armory.com
+a9d6cda4c72dc7ae5e372849c3f77714 -1 Caught for GameHack. Contact A3Armory.com
+33a77adc693ee7db634b8ecb62e170f0 -1 Caught for GameHack. Contact A3Armory.com
+89a7b3e0a1b177d6b589a8732ec65434 -1 Caught for GameHack. Contact A3Armory.com
+2aef3b43df4f321bf1cf33b5a2e08f3c -1 BEC : GameHack #38
+13e7fc21af9c3de3306f783319d76714 -1 Caught for GameHack. Contact A3Armory.com
+df34dcd88ab4e3685c9d816e86d0737f -1 Caught for Glitch Abuse. Contact A3Armory.com
