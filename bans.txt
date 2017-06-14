@@ -1785,7 +1785,6 @@ f7aee047cb730b0123a4c4401f99d298 -1 BEC : GameHack #38
 c9a193769d86aa7253bb0c68b9f34724 -1 Caught for Glitch Abuse. Contact A3Armory.com
 aefe5eebd955cc57083e08201a9cf3e5 -1 Trolling
 a3c0c279a496aac19d902d3f9de33438 -1 BEC : GameHack #38
-f9b1a0458d7b34158645611cfc55df42 -1 Caught for Glitch Abuse. Contact A3Armory.com
 360860909fb74635cdc3d5e81d92e9a3 -1 Trolling
 fe6a123d37cd249b07bc155bd85f35cc -1 BEC : GameHack #38
 0a976b68231db916b5475fa48f8b2929 -1 BEC : GameHack #38
