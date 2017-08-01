@@ -2127,8 +2127,17 @@ fe67c5339e2f057003b7024808aba1da -1 Caught for GameHack. Contact A3Armory.com
 ed13577fe69f1da78a75ae8992e5ea64 -1 Caught for GameHack. Contact A3Armory.com
 05b22a4cbeffba299022220ebdc16a2c -1 Caught for GameHack. Contact A3Armory.com
 4e78a89424bee3640fc1ef4b6adec5f7 -1 Caught for GameHack. Contact A3Armory.com
-3dca9786782d1f50b8a05d56e442f202 -1 Caught for GameHack. Contact A3Armory.com
 de1100f3e36b28f59b3ed8ed63259cc9 -1 Caught for GameHack. Contact A3Armory.com
 b513909a6101d2d24882d74fab67983d -1 Caught for GameHack. Contact A3Armory.com
 54df93f19a766a23bec21d06a57e2cb2 -1 Caught for GameHack. Contact A3Armory.com
 85e0189b6b3ee64d3e8eeb24b727701e -1 Caught for GameHack. Contact A3Armory.com
+553d3bffcf754b6802b8272022efb4fa -1 Trolling
+b4bd2fd71e6d59f6a914ff83a933f9a3 -1 Trolling
+57521c48f7514461f9c8bc7cbe1d3da8 -1 Caught for GameHack. Contact A3Armory.com
+8a9d7c30c03ba7d8bb7dd7303a847085 -1 Caught for GameHack. Contact A3Armory.com
+6483648b2252f137b3f2b629d7eb1e84 -1 Caught for GameHack. Contact A3Armory.com
+75873e83342e3d79b8b0115638e5ec2c -1 Caught for GameHack. Contact A3Armory.com
+d551c492b6aad02e2b0510dfc785ca64 -1 Caught for GameHack. Contact A3Armory.com
+2d0cf9f036f1ac2200a015e093b27cf6 -1 Caught for GameHack. Contact A3Armory.com
+1cb83e8908b61458fd4a0b612a969f76 -1 Caught for GameHack. Contact A3Armory.com
+2f9efb167cdaf63c83071bfc6f937101 -1 Caught for GameHack. Contact A3Armory.com
