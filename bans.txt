@@ -2013,7 +2013,6 @@ cae70d845272c2bfec13a3f2a13e7eba -1 Caught for GameHack. Contact A3Armory.com
 9c9cf49c4e1ecc165864c9f04e8bdfbf -1 Caught for GameHack. Contact A3Armory.com
 2dc7b4c87efac5f26a2034cfae13db36 -1 Caught for GameHack. Contact A3Armory.com
 b2b20bc7ede1229b9e6bebffda2fb72b -1 Caught for GameHack. Contact A3Armory.com
-0c8357a441ba94ad1057e0de704606e7 -1 Griefing
 9f50f0981a79b25210ba19be8d18c19d -1 Caught for GameHack. Contact A3Armory.com
 4be5cdda6dc238232e5cc2cc3a63becd -1 Caught for GameHack. Contact A3Armory.com
 cd8bd926d3b56a7735074eb1da37a41f -1 Caught for GameHack. Contact A3Armory.com
@@ -2147,3 +2146,5 @@ b141bf8515843f75b3a4d67459209442 -1 Caught for GameHack. Contact A3Armory.com
 741a4970048846fba79fb3dfa9ccfd56 -1 Caught for GameHack. Contact A3Armory.com
 6ec7b3d4eb1cdb030606a1a87e5f4ad1 -1 Caught for GameHack. Contact A3Armory.com
 8a05b313dfa09ef73da8506e827fa8aa -1 Trolling
+2e5dc930a574c34b42d88212c856de2d -1 Team Killing
+47d04ddab00554eeb154183f47fabcaf -1 Griefing
